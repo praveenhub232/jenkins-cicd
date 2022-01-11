@@ -5,7 +5,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<spring:url value="/resources/images/mithunlogo.jpg" var="mithunlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>LANJATechnologies- Home Page</title>
 <link href="${mithunlogo}" rel="icon">
@@ -13,7 +12,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Lanja Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps in LAnja Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Very Good Training center for DevOps in Lanja Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -21,10 +20,11 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
-		Bangalore.
-		+91-9980923226
+		Lanja Technologies, 
+		Lanja Halli,Opp To Madhurai Iddly House
+		Room No-404.
+		LANJALAPALLI
+		+91-9533183142
 	</span>
 </div>
 <hr>
